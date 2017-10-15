@@ -8,5 +8,8 @@ Toda a documentação e programas do workshop. Ao final de cada dia os slides, l
 
 Os slides e os links do primeiro dia estão já disponíveis.
 
+**Atualização 14 de Outubro de 2017
 
+- Presentação do dia 3 adicionada.
+- O código do Jupyter Notebook Python do programa do dia 3 foi melhorado com a adição de modelagem linear quadrática e uma comparação entre a linear simples e linear quadrática no conjunto de dados do exemplo.
 
