@@ -8,9 +8,12 @@ Toda a documentação e programas do workshop. No dia seguinte, os slides, links
 
 **Atualização, 17 de Outubro de 2017**
 
-Os dois Python Jupyter notebooks do dia 4 estão agora disponíveis:
+Os arquivos do dia 4 estão agora disponíveis no nosso repositório no GitHub:
+
+1. Os dois Python Jupyter notebooks do dia 4:
 
 - Curso Rápido de Python - Parte 1: Estruturada de Dados em Python
 - Exercícios de Python com soluções
 
-A apresentação em PDF do dia 4 está também disponível.
+2. A apresentação em PDF do dia 4.
+
