@@ -4,12 +4,13 @@
 
 Paulo Rios, Outubro de 2017
 
-Toda a documentação e programas do workshop. Ao final de cada dia os slides, links e programas daquele dia estarão aqui.
+Toda a documentação e programas do workshop. No dia seguinte, os slides, links e programas daquele dia estarão aqui.
 
-Os slides e os links do primeiro dia estão já disponíveis.
+**Atualização, 17 de Outubro de 2017**
 
-**Atualização, 14 de Outubro de 2017**
+Os dois Python Jupyter notebooks do dia 4 estão agora disponíveis:
 
-- A presentação do dia 3 em formato PDF foi adicionada.
-- O código do Jupyter Notebook Python do programa do dia 3 foi melhorado com a adição de modelagem linear quadrática e uma comparação entre a linear simples e linear quadrática no conjunto de dados do exemplo.
+- Curso Rápido de Python - Parte 1: Estruturada de Dados em Python
+- Exercícios de Python com soluções
+
 
