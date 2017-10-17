@@ -12,7 +12,7 @@ Os arquivos do dia 4 estão agora disponíveis no nosso repositório no GitHub:
 
 1. Os dois Python Jupyter notebooks do dia 4:
 
-- Curso Rápido de Python - Parte 1: Estruturada de Dados em Python
+- Curso Rápido de Python - Parte 1: Estrutura de Dados em Python
 - Exercícios de Python com soluções
 
 2. A apresentação em PDF do dia 4.
