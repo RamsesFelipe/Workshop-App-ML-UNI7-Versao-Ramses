@@ -13,4 +13,4 @@ Os dois Python Jupyter notebooks do dia 4 estão agora disponíveis:
 - Curso Rápido de Python - Parte 1: Estruturada de Dados em Python
 - Exercícios de Python com soluções
 
-
+A apresentação em PDF do dia 4 está também disponível.
