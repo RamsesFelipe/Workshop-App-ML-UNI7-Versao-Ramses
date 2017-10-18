@@ -10,6 +10,6 @@ Toda a documentação e programas do workshop. No dia seguinte, os slides, links
 
 O arquivo do dia 5 está agora disponível no nosso repositório no GitHub:
 
-- Python Jupyter notebook, "Aprendendo Numpy, com a aula de Numpy. 
+- Python Jupyter notebook, "Aprendendo Numpy", com a aula de Numpy. 
 Esta versão é toda anotada, com explicações detalhadas.
 
