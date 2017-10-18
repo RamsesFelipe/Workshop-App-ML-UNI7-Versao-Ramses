@@ -6,14 +6,10 @@ Paulo Rios, Outubro de 2017
 
 Toda a documentação e programas do workshop. No dia seguinte, os slides, links e programas daquele dia estarão aqui.
 
-**Atualização, 17 de Outubro de 2017**
+**Atualização, 18 de Outubro de 2017**
 
-Os arquivos do dia 4 estão agora disponíveis no nosso repositório no GitHub:
+O arquivo do dia 5 está agora disponível no nosso repositório no GitHub:
 
-1. Os dois Python Jupyter notebooks do dia 4:
-
-- Curso Rápido de Python - Parte 1: Estruturas de Dados em Python
-- Exercícios de Python com soluções
-
-2. A apresentação em PDF do dia 4.
+- Python Jupyter notebook com a aula de Numpy. 
+Esta versão é toda anotada, com explicações detalhadas.
 
