@@ -8,10 +8,10 @@ Toda a documentação e programas do workshop. No dia seguinte, os slides, links
 
 **Atualização, 19 de Outubro de 2017**
 
-Os arquivo do dia 6 estão agora disponíveis no nosso repositório no GitHub:
+Os arquivo do dia 6 estão agora disponíveis aqui no nosso repositório no GitHub:
 
 - Os quatro Python Jupyter notebooks usandos no dia 6: <br/>
 Aprendendo Numpy - Parte 2, Aprendendo Mais sobre Python, Chatbot, Pandas.<br/>
-- Os slides ddo dia 6.
+- Os slides do dia 6.
 
 
