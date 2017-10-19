@@ -6,10 +6,12 @@ Paulo Rios, Outubro de 2017
 
 Toda a documentação e programas do workshop. No dia seguinte, os slides, links e programas daquele dia estarão aqui.
 
-**Atualização, 18 de Outubro de 2017**
+**Atualização, 19 de Outubro de 2017**
 
-O arquivo do dia 5 está agora disponível no nosso repositório no GitHub:
+Os arquivo do dia 6 estão agora disponíveis no nosso repositório no GitHub:
 
-- Python Jupyter notebook, "Aprendendo Numpy", com a aula de Numpy. 
-Esta versão é toda anotada, com explicações detalhadas.
+- Os quatro Python Jupyter notebooks usandos no dia 6: <br/>
+Aprendendo Numpy - Parte 2, Aprendendo Mais sobre Python, Chatbot, Pandas.<br/>
+- Os slides ddo dia 6.
+
 
